@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Fri Mar 25 17:59:50 2022
+# Process ID: 8396
+# Current directory: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab3_cordic_acc/cordic_acc/cordic_acc.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab3_cordic_acc/cordic_acc/cordic_acc.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab3_cordic_acc/cordic_acc/cordic_acc.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

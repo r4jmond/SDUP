@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Apr  5 17:22:20 2022
+# Process ID: 8972
+# Current directory: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab4_pipeline/cordic_acc
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5212 C:\Users\Mateusz\Desktop\Magisterka_semestr_1\SDUP\lab4_pipeline\cordic_acc\cordic_acc.xpr
+# Log file: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab4_pipeline/cordic_acc/vivado.log
+# Journal file: C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab4_pipeline/cordic_acc\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/lab4_pipeline/cordic_acc/cordic_acc.xpr
+update_compile_order -fileset sources_1
