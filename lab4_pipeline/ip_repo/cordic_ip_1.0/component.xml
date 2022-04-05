@@ -805,8 +805,8 @@
         <xilinx:taxonomy>AXI_Peripheral</xilinx:taxonomy>
       </xilinx:taxonomies>
       <xilinx:displayName>cordic_ip_v1.0</xilinx:displayName>
-      <xilinx:coreRevision>2</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2022-03-24T09:13:09Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>3</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2022-04-05T19:14:33Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@4dc095ba_ARCHIVE_LOCATION">c:/Users/student/Documents/GDOM/SDUP/lab3_cordic_acc/ip_repo/cordic_ip_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@303e551c_ARCHIVE_LOCATION">c:/Users/student/Documents/GDOM/SDUP/lab3_cordic_acc/ip_repo/cordic_ip_1.0</xilinx:tag>
@@ -815,6 +815,59 @@
         <xilinx:tag xilinx:name="ui.data.coregen.dd@396a5f86_ARCHIVE_LOCATION">c:/Users/student/Documents/GDOM/SDUP/lab3_cordic_acc/ip_repo/cordic_ip_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@747f4a2d_ARCHIVE_LOCATION">c:/Users/student/Documents/GDOM/SDUP/lab3_cordic_acc/ip_repo/cordic_ip_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@55487cda_ARCHIVE_LOCATION">c:/Users/student/Documents/GDOM/SDUP/lab3_cordic_acc/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5b57a83b_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5a6cb1c_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6176c113_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3458a230_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4df3078_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5f201c4_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@94c9619_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@24146dda_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2e2dc80c_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4b6e6a2e_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@14082fe3_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@bdfa592_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1cae1a2d_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@75121b8_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@69890a8_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@15f9d202_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@53ae3c81_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7aca06cd_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@609267e9_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4ef4e7fc_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7b953376_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@a9e4469_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6b2170df_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@18b913ee_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6f5d04f6_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5a57ede3_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6d7ba2a5_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@9a8ff8e_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@10f0294e_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4cab8dd0_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1d05f491_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6da512d_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@23bb1cde_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@33a1f568_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@32c62fdc_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@36ef9c0c_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6546c603_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@45e6ee9c_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@220724c9_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@f252851_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@45d4bbf0_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@49cfaf29_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6697a75a_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@46e7e81a_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5847561e_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@58366bb3_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@11d21521_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@70341dd5_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3337a14_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@214603a7_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@764e8d43_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7eee4ba8_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@21fb45c9_ARCHIVE_LOCATION">c:/Users/Mateusz/Desktop/Magisterka_semestr_1/SDUP/repo/SDUP/lab4_pipeline/ip_repo/cordic_ip_1.0</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
