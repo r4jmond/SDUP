@@ -3,14 +3,14 @@
 
 module elipse_with_cordic_rtl_TB;
     reg clock, ce, reset, start;
-    wire [12:0] x, y;
+    wire signed [13:0] x, y;
     wire valid_out;
+    wire[1:0] quarter;
     //For easy output value monitoring
     real real_x, real_y;
     
     //Instantiation
-    elipse_with_cordic_rtl elipse (clock, reset, ce, valid_out, x, y);
-//    cordic_pipe_rtl cordic ( clock, reset, ce, angle_in, sin_out, cos_out, valid_out );
+    elipse_with_cordic_rtl elipse (clock, reset, ce, valid_out, x, y,quarter);
     
     //Reset stimuli
     initial
@@ -30,7 +30,7 @@ module elipse_with_cordic_rtl_TB;
         
     //Signals stimuli
 
-    always@(posedge clock)
+    always@*
     begin
         //Convert and display results
         real_x = x;

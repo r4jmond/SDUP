@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../ip_repo/cordic_ip_1.0/hdl/cordic_pipe_rtl.v" \
+"../../../../../../../ip_repo/cordic_ip_1.0/hdl/cordic_step.v" \
+"../../../../../../../ip_repo/cordic_ip_1.0/hdl/elipse_with_cordic_rtl.v" \
+"../../../../../../../ip_repo/cordic_ip_1.0/hdl/mul_Kn.v" \
+"../../../../../../../ip_repo/cordic_ip_1.0/hdl/elipse_with_cordic_rtl_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
